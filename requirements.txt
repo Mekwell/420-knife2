@@ -1,0 +1,4 @@
+flask
+esipy
+flask-sqlalchemy
+gunicorn
